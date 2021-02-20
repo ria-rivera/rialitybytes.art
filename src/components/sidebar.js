@@ -1,7 +1,7 @@
 import { Link } from 'gatsby'
 import React from 'react'
 
-import Logo from './pic.jpg'
+import Logo from './avatar.png'
 
 const Sidebar = ({ siteMetadata }) => (
   <>
@@ -15,29 +15,30 @@ const Sidebar = ({ siteMetadata }) => (
           </div>
           <div className="author-name">{siteMetadata.author}</div>
           <p>{siteMetadata.description}</p>
+          <p><a href="http://localhost:8000/about/">About me</a></p>
         </div>
       </header>
       <footer>
         <section className="contact">
           <h3 className="contact-title">Contact me</h3>
           <ul>
-            {siteMetadata.social.twitter && (
+            {siteMetadata.social.instagram && (
               <li>
                 <a
-                  href={`https://twitter.com/${siteMetadata.social.twitter}`}
+                  href={`https://instagram.com/${siteMetadata.social.instagram}`}
                   target="_blank"
                 >
-                  <i className="fa fa-twitter" aria-hidden="true" />
+                  <i className="fa fa-instagram" aria-hidden="true" />
                 </a>
               </li>
             )}
-            {siteMetadata.social.facebook && (
+            {siteMetadata.social.gitlab && (
               <li>
                 <a
-                  href={`https://facebook.com/${siteMetadata.social.facebook}`}
+                  href={`https://gitlab.com/ria-rivera`}
                   target="_blank"
                 >
-                  <i className="fa fa-facebook" aria-hidden="true" />
+                  <i className="fa fa-gitlab" aria-hidden="true" />
                 </a>
               </li>
             )}
@@ -72,7 +73,7 @@ const Sidebar = ({ siteMetadata }) => (
         </section>
         <div className="copyright">
           <p>
-            {new Date().getFullYear()} &copy; {siteMetadata.author}
+            {new Date().getFullYear()} &copy; rialitybytes.art
           </p>
         </div>
       </footer>

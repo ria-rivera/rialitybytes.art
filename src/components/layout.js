@@ -16,8 +16,8 @@ const DefaultLayout = ({ children }) => (
             author
             description
             social {
-              twitter
-              facebook
+              instagram
+              gitlab
               linkedin
               github
               email
