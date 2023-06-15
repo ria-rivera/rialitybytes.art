@@ -33,9 +33,3 @@ Granted, it's going to be difficult to fit a lot of information on a single page
 7. Click **Publish**. That's it! Your new site should be ready soon. 
 
 Here's one I made today in under 15 minutes: [rialitybytes.art on Carrd.co](https://rialitybytesart.carrd.co)
-
-## 100 Day Project: Tech Tools for Artists
-
-I hope you found this helpful! This post is part a series of posts for my 100 Day Project this year. In the next few months, I will write and draw about tech tools that I use as a technical writer that I think other artists and small business owners would find useful.
-
-If you're not familiar with the 100 day project, check out the [website](https://the100dayproject.org/) and #The100DayProject hashtag. And if you have questions and/or suggestions on what tools I should include in my list, please leave a comment or send me a DM on [Instagram](https://instagram.com/rialitybytes.art).
