@@ -52,9 +52,3 @@ All done. You can stop there or keep uploading files.
 ## GitHub vs. GitLab
 
 You might be wondering, why should you use one over the other? Good question. To be honest, I find the GitLab user interface a lot friendlier especially for folks like myself who don't use developer speak. I like how they use common terms like project instead of repository. While they still use common Git terms like commit and branch, the site just feels a lot friendlier, IMO. But that's just me. I encourage you to try both platforms and find out which will work best for you.
-
-## 100 Day Project: Tech Tools for Artists
-
-I hope you found this helpful! This post is part a series of posts for my 100 Day Project this year. In the next few months, I will write and draw about tech tools that I use as a technical writer that I think other artists and small business owners would find useful.
-
-If you're not familiar with the 100 day project, check out the [website](https://the100dayproject.org/) and #The100DayProject hashtag. And if you have questions and/or suggestions on what tools I should include in my list, please leave a comment or send me a DM on [Instagram](https://instagram.com/rialitybytes.art).
