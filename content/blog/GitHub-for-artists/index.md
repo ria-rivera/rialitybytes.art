@@ -62,9 +62,3 @@ GitHub has its limitations as well, but once your files are on a GitHub repo, yo
 
 2. Native version control
 GitHub is primarily used for version control, so you can fully leverage this when working on commissions or client projects. Forget about using file names to track version changes (think: *cover-photo_v1.2.3.4.5*). GitHub manages the file version history for you.
-
-## 100 Day Project: Tech Tools for Artists
-
-I hope you found this helpful! This post is part a series of posts for my 100 Day Project this year. In the next few months, I will write and draw about tech tools that I use as a technical writer that I think other artists and small business owners would find useful.
-
-If you're not familiar with the 100 day project, check out the [website](https://the100dayproject.org/) and #The100DayProject hashtag. And if you have questions and/or suggestions on what tools I should include in my list, please leave a comment or send me a DM on [Instagram](https://instagram.com/rialitybytes.art).
